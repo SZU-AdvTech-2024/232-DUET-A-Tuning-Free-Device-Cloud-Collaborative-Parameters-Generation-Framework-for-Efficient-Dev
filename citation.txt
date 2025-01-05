@@ -1,0 +1,7 @@
+@inproceedings{REPO232,
+    author = "Lv, Zheqi and Zhang, Wenqiao and Zhang, Shengyu and Kuang, Kun and Wang, Feng and Wang, Yongwei and Chen, Zhengyu and Shen, Tao and Yang, Hongxia and Ooi, Beng Chin and others",
+    booktitle = "Proceedings of the ACM Web Conference 2023",
+    pages = "3077--3085",
+    title = "{Duet: A tuning-free device-cloud collaborative parameters generation framework for efficient device model generalization}",
+    year = "2023"
+}
