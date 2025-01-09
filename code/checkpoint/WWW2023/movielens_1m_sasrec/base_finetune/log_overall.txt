@@ -1,0 +1,1 @@
+train_epoch=1, train_step=1, overall_auc=0.939317, user_auc=0.933118, overall_logloss=0.123529, user_ndcg5=0.557221, user_hr5=0.714570, user_ndcg10=0.591399, user_hr10=0.819536, user_ndcg20=0.610516, user_hr20=0.894702
